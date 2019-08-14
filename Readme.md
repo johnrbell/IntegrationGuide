@@ -2,7 +2,8 @@
 
 This cheatsheet is to help you quickly get up and running with a fully localized storefront. This assumes you have installed Flow Connect and Flow Checkout Apps as documented here: https://docs.flow.io/shopify/guide/shopify-app-install
 
-Much of this code is dependant on theme. Class names of DOM elements may change, therefore simply copy and pasting code may not work. This should be used as a guide explaing the *ideas* behind each step of integrating. 
+Much of this code is dependant on theme. Class names of DOM elements may change, therefore simply copy and pasting code may not work. Luckily, most of the logic provided should work with minor modifications. This should be used as a guide explaing the *ideas* behind each step of integrating. 
+
 
 ### 1. Rendering Localized Pricing: 
 
